@@ -1,0 +1,33 @@
+## 🧬 RNA-seq Analysis in Mouse Models for Diabetes Research
+
+This project presents a complete RNA-seq analysis workflow applied to mouse samples in the context of diabetes-related gene expression studies. The analysis was originally developed during my undergraduate research project.
+
+### 🔹 Experimental Overview
+RNA sequencing data were generated from mouse samples to investigate transcriptional changes associated with diabetes, with a particular focus on genes involved in metabolic regulation.
+
+### 🔹 Bioinformatics Workflow
+
+#### 1. Pre-processing and Alignment (Linux environment)
+All initial bioinformatics steps were performed in a Linux environment:
+
+- Quality control of raw FASTQ files
+- Read alignment against the mouse reference genome
+- Generation of sorted BAM files
+- Gene-level read quantification using `featureCounts`
+
+#### 2. Statistical Analysis and Visualization (R environment)
+Downstream analyses were conducted in R, including:
+
+- Import of raw count matrices
+- Data normalization
+- Exploratory data analysis (PCA and clustering)
+- Differential gene expression analysis
+- Visualization of significant transcriptional changes
+
+### 🔹 Data Availability
+Due to data confidentiality, the datasets used in this repository are simulated or derived from publicly available RNA-seq data to reproduce the original analytical workflow. All scripts and analytical steps remain identical to those applied in the original study.
+
+### 🔹 Key Outcomes
+- Identification of differentially expressed genes associated with diabetic conditions
+- Visualization of transcriptional patterns across experimental groups
+- Reproducible and well-documented RNA-seq analysis pipeline
