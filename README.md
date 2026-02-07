@@ -1,66 +1,36 @@
-# 👩‍🔬 Bioinformatics & Functional Genomics
+## 👩‍🔬 About Me
 
-Biologist (B.Sc., UFSCar) and Master's student with experience in bioinformatics, transcriptomics, RNA-seq analysis, variant calling, functional genomics, and biostatistics. My research focuses on applying computational approaches to understand molecular mechanisms underlying metabolic and reproductive phenotypes.
+I hold a Bachelor's degree in Biological Sciences from the Federal University of São Carlos (UFSCar), with a strong background in Molecular Biology and Reproductive Biology. I am currently a Master’s student in **Animal Reproduction (Bovine)**, focusing on the integration of experimental biology and bioinformatics to investigate molecular mechanisms underlying reproductive and metabolic phenotypes.
 
----
-
-## 🧬 Research Interests
-- Bioinformatics and Data Analysis
-- RNA-seq Analysis
-- Variant Calling and Functional Genomics
-- Metabolic Disorders
-- Reproductive and Developmental Biology
-- Statistical Analysis in Biology
+My academic training combines **wet-lab molecular techniques**, **statistical analysis**, and **bioinformatics workflows**, allowing me to approach biological questions from both experimental and computational perspectives.
 
 ---
 
-## 🧪 Featured Projects
+## 🧬 Research Experience & Technical Skills
 
-### 🧬 RNA-seq Analysis of Metabolic Dysfunction in Mouse Skeletal Muscle
-Complete RNA-seq workflow including alignment, differential expression analysis, genotype × diet interaction modeling, and functional enrichment analysis (GO and KEGG).
+### Molecular and Reproductive Biology
+- Quantitative real-time PCR (RT-qPCR) for gene expression analysis  
+- DNA extraction for molecular and genomic applications  
+- Polyacrylamide and agarose gel electrophoresis for DNA and protein analysis  
+- Animal experimentation with mice, following ethical and methodological guidelines  
+- Collection of oocytes, organs, and skeletal muscle from mouse models for physiological and genetic studies  
 
-🔗 Repository: `rnaseq-diabetes-mouse`
-
----
-
-### 🧬 RNA-seq–Based Variant Calling in Bovine Embryos
-Variant discovery from RNA-seq data using splice-aware alignment, followed by functional enrichment analysis to identify pathways associated with embryo cryotolerance.
-
-🔗 Repository: `bovine-embryo-rnaseq-variant-calling`
-
----
-
-## 🛠️ Technical Skills
-
-**Languages & Environments**
-- R
-- Linux / Bash
-
-**Bioinformatics Tools**
-- HISAT2
-- featureCounts
-- DESeq2
-- SAMtools
-- bcftools
-- clusterProfiler
-
-**Databases**
-- Gene Ontology (GO)
-- KEGG
-- Ensembl
+### Bioinformatics and Data Analysis
+- RNA-seq data analysis, including preprocessing, normalization, and interpretation  
+- Differential gene expression analysis using **DESeq2**  
+- Functional enrichment analysis (GO and KEGG)  
+- RNA-seq–based variant calling  
+- Statistical analysis and data visualization in **R**  
+- Linux-based bioinformatics pipelines  
 
 ---
 
-## 📊 Data Analysis & Statistics
-- Experimental design
-- Multivariate analysis
-- PCA
-- Differential expression
-- Pathway enrichment
-- Data visualization
+## 🎯 Scientific Interests
+- Bioinformatics and Functional Genomics  
+- RNA-seq Analysis  
+- Variant Calling  
+- Reproductive and Developmental Biology  
+- Metabolic Regulation  
+- Statistical Analysis in Life Sciences  
 
----
-
-## 📫 Contact
-- GitHub: https://github.com/JulioRoncato
-- LinkedIn: https://www.linkedin.com/in/julio-roncato/
+I am a detail-oriented and motivated researcher, constantly seeking to expand my technical and analytical skills to contribute to innovative and reproducible scientific research.
