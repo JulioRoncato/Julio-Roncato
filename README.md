@@ -34,3 +34,7 @@ My academic training combines **wet-lab molecular techniques**, **statistical an
 - Statistical Analysis in Life Sciences  
 
 I am a detail-oriented and motivated researcher, constantly seeking to expand my technical and analytical skills to contribute to innovative and reproducible scientific research.
+
+## 📫 Contact
+- GitHub: https://github.com/JulioRoncato
+- LinkedIn: (https://www.linkedin.com/in/julio-roncato/)
