@@ -1,27 +1,66 @@
-# Julio-Roncato
-## 👩‍🔬 About Me
+# 👩‍🔬 Bioinformatics & Functional Genomics
 
-Biologist graduated from the Federal University of São Carlos (UFSCar) and currently a Master's student, with experience in bioinformatics, transcriptomics, genomics, and biostatistics.
+Biologist (B.Sc., UFSCar) and Master's student with experience in bioinformatics, transcriptomics, RNA-seq analysis, variant calling, functional genomics, and biostatistics. My research focuses on applying computational approaches to understand molecular mechanisms underlying metabolic and reproductive phenotypes.
 
-My academic background includes RNA-seq analysis in mouse models for diabetes research, transcriptomic studies in bovine embryos to evaluate the impact of cytokines on early development, and variant calling analysis of the bovine genome. I also have strong experience in statistical analysis applied to scientific research, including authorship support for peer-reviewed publications.
+---
 
-## 🔬 Research Interests
-- Transcriptomics (RNA-seq)
-- Genomic Variant Analysis
-- Bioinformatics Pipelines
-- Biostatistics for Biological Data
-- Reproducible Research
+## 🧬 Research Interests
+- Bioinformatics and Data Analysis
+- RNA-seq Analysis
+- Variant Calling and Functional Genomics
+- Metabolic Disorders
+- Reproductive and Developmental Biology
+- Statistical Analysis in Biology
+
+---
+
+## 🧪 Featured Projects
+
+### 🧬 RNA-seq Analysis of Metabolic Dysfunction in Mouse Skeletal Muscle
+Complete RNA-seq workflow including alignment, differential expression analysis, genotype × diet interaction modeling, and functional enrichment analysis (GO and KEGG).
+
+🔗 Repository: `rnaseq-diabetes-mouse`
+
+---
+
+### 🧬 RNA-seq–Based Variant Calling in Bovine Embryos
+Variant discovery from RNA-seq data using splice-aware alignment, followed by functional enrichment analysis to identify pathways associated with embryo cryotolerance.
+
+🔗 Repository: `bovine-embryo-rnaseq-variant-calling`
+
+---
 
 ## 🛠️ Technical Skills
-- R (DESeq2, edgeR, ggplot2)
-- Python (Pandas, NumPy, BioPython)
-- Bash / Linux
-- Snakemake
-- Conda
-- Git & GitHub
 
-## 📂 Featured Projects
-- RNA-seq analysis in mouse models of diabetes
-- Transcriptomic analysis of bovine embryos exposed to cytokines
-- Bovine genome variant calling pipeline
-- Statistical analysis for biological research
+**Languages & Environments**
+- R
+- Linux / Bash
+
+**Bioinformatics Tools**
+- HISAT2
+- featureCounts
+- DESeq2
+- SAMtools
+- bcftools
+- clusterProfiler
+
+**Databases**
+- Gene Ontology (GO)
+- KEGG
+- Ensembl
+
+---
+
+## 📊 Data Analysis & Statistics
+- Experimental design
+- Multivariate analysis
+- PCA
+- Differential expression
+- Pathway enrichment
+- Data visualization
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/JulioRoncato
+- LinkedIn: https://www.linkedin.com/in/julio-roncato/
